@@ -34,25 +34,25 @@ const projectList = [
     title: "My Blog Website",
     description:
       "This is my blog website where I write about my experiences and learnings in the tech industry.",
-    url: "https://abdulrehmanghub.github.io/Task-2-Quiz-App-using-JavaScript/",
+    url: "https://raihanulislamnahid.github.io/",
   },
   {
-    title: "Calculator Website",
+    title: "Music Player",
     description:
-      "This is  calculator website where I write .",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "This is a music player that I created using HTML, CSS and JavaScript.",
+    url: "https://raihanulislamnahid.github.io/RaihanulislamNahid./boomtschak/index.html",
   },
   {
-    title: "My Resume Site",
+    title: "All Social Media",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "All Social Media is a website that I created using HTML, CSS and JavaScript.",
+    url: "https://raihanulislamnahid.github.io/RaihanulislamNahid./",
   },
   {
-    title: "sdfljv",
+    title: "ICPC Egypt",
     description:
       "Video interview to explain sdkfksdd how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    url: "https://www.youtube.com/watch?v=LFlHmP2QLVs&ab_channel=RaihanulIslam",
   },
 ];
 

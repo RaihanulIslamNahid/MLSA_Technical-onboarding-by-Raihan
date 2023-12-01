@@ -24,7 +24,7 @@ const imageAltText = "wood background beautiful and simple";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "ljfskjsdkfljalsdfj kjklksdfja lkjsafd lkajfsd.";
+  "Software Engineer and Developer Advocate. I love to learn and share my knowledge with others";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -32,7 +32,7 @@ const description =
  */
 const skillsList = [
   "Web Developer",
-  "User balsdjf",
+  "Internet of Things",
   "Inclusive design",
   "Focus jfdaslkjio",
   "Mobile user interfaces",
