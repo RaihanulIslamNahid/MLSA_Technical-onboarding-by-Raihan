@@ -34,7 +34,7 @@ const skillsList = [
   "Web Developer",
   "Internet of Things",
   "Inclusive design",
-  "Focus jfdaslkjio",
+  "Sloveing problems",
   "Mobile user interfaces",
   "Gaming",
 ];
